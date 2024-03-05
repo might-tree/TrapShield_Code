@@ -1,0 +1,17 @@
+address
+amount
+policy
+name
+city
+state
+SWIFT
+phone
+telephone
+email
+Datum
+claim. no.
+date
+total
+zip code
+birth date
+date of birth

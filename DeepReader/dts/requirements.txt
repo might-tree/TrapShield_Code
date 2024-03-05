@@ -1,0 +1,7 @@
+#numpy==1.18.4
+shapely==1.7.0
+#beautifulsoup4==4.9.1
+pandas==0.25.3
+#zipp==3.1.0
+google-cloud-storage
+boto3

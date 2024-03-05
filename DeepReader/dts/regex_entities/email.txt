@@ -1,0 +1,1 @@
+[A-Za-z0-9\._]+ ?@ ?(gmail|yahoo|yale|tcs|rediff|hotmail|live|thecitybank) ?. ?(com|net|org|edu)

@@ -1,0 +1,16 @@
+hospital
+hospitalization
+clinic
+diagnosis
+diagnose
+illness
+treatment
+treated
+veterinarian
+Diabetes
+symptoms
+symptom
+medical
+chiropractic
+cancer
+health
